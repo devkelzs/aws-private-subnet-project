@@ -43,5 +43,9 @@ All architecture diagrams and technical screenshots are embedded within the (htt
 
 ## 📌 Quick Access
 
- (https://github.com/devkelzs/aws-private-subnet-project/blob/main/legendary-aws-networks-private.pdf)
+ ## 📚 Project Files
+
+[📄 Download Full Project Documentation (PDF)]  https://github.com/devkelzs/aws-private-subnet-project/blob/main/legendary-aws-networks-private.pdf
+
+
 
